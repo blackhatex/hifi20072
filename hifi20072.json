@@ -960,5 +960,26 @@
         "internalName": "YugenAnime",
         "url": "https://github.com/hifi2016/extensions-/raw/main/YugenAnime.cs3",
         "name": "YugenAnime"
-    }
-]
+ },
+ {
+
+ "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AllAnimeProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+ },
+    {
