@@ -1,13 +1,13 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 14395,
         "status": 0,
-        "language": "de",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -15,19 +15,19 @@
             "OVA"
         ],
         "version": 1,
-        "internalName": "Anifreakz",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anifreakz.cs3",
-        "name": "Anifreakz"
+        "internalName": "AllAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/raw/main/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Anilibria/icon.png",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 19453,
         "status": 1,
-        "language": "ru",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -35,19 +35,19 @@
             "Anime"
         ],
         "version": 2,
-        "internalName": "Anilibria",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anilibria.cs3",
-        "name": "Anilibria"
+        "internalName": "AllMoviesForYou",
+        "url": "https://github.com/hifi2016/boo/raw/main/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYou"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.fun&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 25827,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -55,19 +55,19 @@
             "Anime"
         ],
         "version": 9,
-        "internalName": "AnimeIndoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
-        "name": "AnimeIndoProvider"
+        "internalName": "AniflixProvider",
+        "url": "https://github.com/hifi2016/boo/raw/main/AniflixProvider.cs3",
+        "name": "AniflixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.143.42&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 18835,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -75,19 +75,19 @@
             "OVA"
         ],
         "version": 6,
-        "internalName": "AnimeSailProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeSailProvider.cs3",
-        "name": "AnimeSailProvider"
+        "internalName": "AnimeFlickProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anizm.net&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 16567,
         "status": 1,
-        "language": "tr",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -95,74 +95,74 @@
             "OVA"
         ],
         "version": 1,
-        "internalName": "Anizm",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anizm.cs3",
-        "name": "Anizm"
+        "internalName": "AnimePaheProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 18232,
         "status": 1,
-        "language": "tr",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama"
         ],
         "version": 1,
-        "internalName": "Dizikorea",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dizikorea.cs3",
-        "name": "Dizikorea"
+        "internalName": "AnimekisaProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 17242,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
             "Movie"
         ],
         "version": 6,
-        "internalName": "DramaidProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
-        "name": "DramaidProvider"
+        "internalName": "AsiaFlixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=149.3.170.35&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 12974,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama"
         ],
         "version": 2,
-        "internalName": "DramaSerial",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
-        "name": "DramaSerial"
+        "internalName": "Ask4Movie",
+        "url": "https://github.com/hifi2016/boo/blob/main/Ask4Movie.cs3",
+        "name": "Ask4Movie"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.duboku.tv&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 12801,
         "status": 1,
-        "language": "zh",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -170,19 +170,19 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "DubokuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DubokuProvider.cs3",
-        "name": "DubokuProvider"
+        "internalName": "BflixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/BflixProvider.cs3",
+        "name": "BflixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 19298,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -190,19 +190,19 @@
             "OVA"
         ],
         "version": 3,
-        "internalName": "Gomunimeis",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomunimeis.cs3",
-        "name": "Gomunimeis"
+        "internalName": "Crunchyroll",
+        "url": "https://github.com/hifi2016/boo/blob/main/Crunchyroll.cs3",
+        "name": "Crunchyroll"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 17970,
         "status": 0,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -210,57 +210,56 @@
             "OVA"
         ],
         "version": 2,
-        "internalName": "GomunimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GomunimeProvider.cs3",
-        "name": "GomunimeProvider"
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 10948,
         "status": 1,
         "language": "en",
         "authors": [
-            "Sora"
+            "hifi2007"
         ],
         "tvTypes": [
-            "NSFW"
+            "EjaTv"
         ],
         "version": 7,
-        "internalName": "GoodPorn",
-        "description": "Premium porn with 4K support (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GoodPorn.cs3",
-        "name": "GoodPorn"
+        "internalName": "EjaTv",        
+        "url": "https://github.com/hifi2016/boo/blob/main/EjaTv.cs3",
+        "name": "EjaTv"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.live&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 20449,
         "status": 1,
-        "language": "tr",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 8,
-        "internalName": "Hdfilmcehennemi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hdfilmcehennemi.cs3",
-        "name": "Hdfilmcehennemi"
+        "internalName": "GogoanimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdrezka19139.org&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 24226,
         "status": 1,
-        "language": "ru",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -269,37 +268,37 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "HDrezkaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/HDrezkaProvider.cs3",
-        "name": "HDrezkaProvider"
+        "internalName": "HDMProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/HDMProvider.cs3",
+        "name": "HDMProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 14499,
         "status": 1,
         "language": "en",
         "authors": [
-            "Sora"
+            "hifi2007"
         ],
         "tvTypes": [
-            "NSFW"
+            "IHaveNoTvProvider"
         ],
         "version": 3,
-        "internalName": "Hentaiheaven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Hentaiheaven.cs3",
-        "name": "Hentaiheaven"
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=109.234.36.69&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 16559,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
@@ -308,38 +307,38 @@
             "AsianDrama"
         ],
         "version": 9,
-        "internalName": "IdlixProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IdlixProvider.cs3",
-        "name": "IdlixProvider"
+        "internalName": "KawaiifuProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.i-moviehd.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 13086,
         "status": 1,
-        "language": "th",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "KimCartoonProvider"
         ],
         "version": 1,
-        "internalName": "IMoviehd",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IMoviehd.cs3",
-        "name": "IMoviehd"
+        "internalName": "KimCartoonProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www2.kickassanime.ro&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 51610,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -347,37 +346,37 @@
             "OVA"
         ],
         "version": 10,
-        "internalName": "Kickassanime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kickassanime.cs3",
-        "name": "Kickassanime"
+        "internalName": "MeloMovieProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 13078,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
-            "AsianDrama"
+            "NginxProvider"
         ],
         "version": 1,
-        "internalName": "Kissasian",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Kissasian.cs3",
-        "name": "Kissasian"
+        "internalName": "NginxProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/NginxProvider.cs3",
+        "name": "NginxProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 18807,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -386,19 +385,19 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "KisskhProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KisskhProvider.cs3",
-        "name": "KisskhProvider"
+        "internalName": "NineAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 21607,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -406,19 +405,19 @@
             "OVA"
         ],
         "version": 9,
-        "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
-        "name": "KuramanimeProvider"
+        "internalName": "OlgplyProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 19771,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -426,19 +425,19 @@
             "OVA"
         ],
         "version": 7,
-        "internalName": "KuronimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuronimeProvider.cs3",
-        "name": "KuronimeProvider"
+        "internalName": "SflixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SflixProvider.cs3",
+        "name": "SflixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 16394,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -446,19 +445,19 @@
             "Movie"
         ],
         "version": 11,
-        "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
-        "name": "LayarKacaProvider"
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 33273,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -467,58 +466,58 @@
             "Movie"
         ],
         "version": 23,
-        "internalName": "Loklok",
-        "description": "#2 best extension based on Loklok API",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
-        "name": "Loklok"
+        "internalName": "StremioProvider",
+        "description": "StremioProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/StremioProvider.cs3",
+        "name": "StremioProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 18086,
         "status": 1,
-        "language": "tl",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 1,
-        "internalName": "Moviehab",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Moviehab.cs3",
-        "name": "Moviehab"
+        "internalName": "SuperStream",
+        "url": "https://github.com/hifi2016/boo/blob/main/SuperStream.cs3",
+        "name": "SuperStream"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 24828,
         "status": 1,
-        "language": "hi",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 32,
-        "internalName": "Movierulzhd",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
-        "name": "Movierulzhd"
+        "internalName": "SuperembedProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SuperembedProvider.cs3",
+        "name": "SuperembedProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 15903,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -526,19 +525,19 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "MultiplexProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/MultiplexProvider.cs3",
-        "name": "MultiplexProvider"
+        "internalName": "TenshiProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TenshiProvider.cs3",
+        "name": "TenshiProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 20379,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -547,19 +546,19 @@
             "OVA"
         ],
         "version": 6,
-        "internalName": "NeonimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NeonimeProvider.cs3",
-        "name": "NeonimeProvider"
+        "internalName": "TheFlixToProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.site&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 22701,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -567,37 +566,37 @@
             "OVA"
         ],
         "version": 11,
-        "internalName": "NontonAnimeIDProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/NontonAnimeIDProvider.cs3",
-        "name": "NontonAnimeIDProvider"
+        "internalName": "TrailersTwoProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=123tv.live&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 16252,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
-            "Live"
+            "movies"
         ],
         "version": 3,
-        "internalName": "OnetwothreeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OnetwothreeTv.cs3",
-        "name": "OnetwothreeTv"
+        "internalName": "VMoveeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=65.108.132.145&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 22909,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -605,19 +604,19 @@
             "OVA"
         ],
         "version": 11,
-        "internalName": "OploverzProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OploverzProvider.cs3",
-        "name": "OploverzProvider"
+        "internalName": "VidSrcProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 21749,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -625,38 +624,38 @@
             "OVA"
         ],
         "version": 10,
-        "internalName": "OtakudesuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OtakudesuProvider.cs3",
-        "name": "OtakudesuProvider"
+        "internalName": "VidstreamBundle",
+        "url": "https://github.com/hifi2016/boo/blob/main/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 11252,
         "status": 1,
         "language": "en",
         "authors": [
-            "Sora"
+            "hifi2007"
         ],
         "tvTypes": [
-            "NSFW"
+            "cartoons"
         ],
         "version": 4,
-        "internalName": "Paradisehill",
-        "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Paradisehill.cs3",
-        "name": "Paradisehill"
+        "internalName": "WatchCartoonOnlineProvider",
+        "description": "WatchCartoonOnlineProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilla.net&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 15402,
         "status": 1,
-        "language": "vi",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -665,19 +664,19 @@
             "Movie"
         ],
         "version": 4,
-        "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/PhimmoichillProvider.cs3",
-        "name": "PhimmoichillProvider"
+        "internalName": "Anifreakz",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Anifreakz.cs3",
+        "name": "Anifreakz"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 26296,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -686,40 +685,40 @@
             "Movie"
         ],
         "version": 5,
-        "internalName": "RebahinProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/RebahinProvider.cs3",
-        "name": "RebahinProvider"
+        "internalName": "Anilibria",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Anilibria.cs3",
+        "name": "Anilibria"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=194.163.183.129&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 20285,
         "status": 1,
-        "language": "id",
+        "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
+            "GoodPorn",
+            "Adult",
+            "xxx"
         ],
         "version": 7,
-        "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Samehadaku.cs3",
-        "name": "Samehadaku"
+        "internalName": "GoodPorn",
+        "url": "https://github.com/hifi2016/boo2/blob/main/GoodPorn.cs3",
+        "name": "GoodPorn"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 242694,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated",
-            "Sora"
+            "hifi2007",
+            
         ],
         "tvTypes": [
             "AsianDrama",
@@ -730,18 +729,18 @@
         "version": 106,
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/SoraStream.cs3",
         "name": "SoraStream"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 21741,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "Live"
@@ -749,18 +748,18 @@
         "version": 14,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TimefourTv.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/TimefourTv.cs3",
         "name": "TimefourTv"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 14159,
         "status": 1,
         "language": "vi",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -769,36 +768,36 @@
         ],
         "version": 1,
         "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TocanimeProvider.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/TocanimeProvider.cs3",
         "name": "TocanimeProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 10193,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "Documentary"
         ],
         "version": 1,
         "internalName": "Topdocumentaryfilms",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Topdocumentaryfilms.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Topdocumentaryfilms.cs3",
         "name": "Topdocumentaryfilms"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=turkish123.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 13202,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
@@ -806,36 +805,36 @@
         ],
         "version": 1,
         "internalName": "Turkish",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Turkish.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Turkish.cs3",
         "name": "Turkish"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv247.us&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 9546,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 2,
         "internalName": "Tvtwofourseven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Tvtwofourseven.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Tvtwofourseven.cs3",
         "name": "Tvtwofourseven"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uakino.club&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 16033,
         "status": 1,
         "language": "uk",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "Anime",
@@ -844,36 +843,36 @@
         ],
         "version": 1,
         "internalName": "UakinoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UakinoProvider.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/UakinoProvider.cs3",
         "name": "UakinoProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=useetv.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 9523,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 2,
         "internalName": "UseeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UseeTv.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/UseeTv.cs3",
         "name": "UseeTv"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 15018,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -882,18 +881,18 @@
         ],
         "version": 2,
         "internalName": "WcofunProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/WcofunProvider.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/WcofunProvider.cs3",
         "name": "WcofunProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.io&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 23428,
         "status": 1,
         "language": "de",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
@@ -901,18 +900,18 @@
         ],
         "version": 3,
         "internalName": "Xcineio",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcineio.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Xcineio.cs3",
         "name": "Xcineio"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Xcinetop/icon.png",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 17551,
         "status": 1,
         "language": "de",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
@@ -920,18 +919,18 @@
         ],
         "version": 3,
         "internalName": "Xcinetop",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcinetop.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Xcinetop.cs3",
         "name": "Xcinetop"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 14105,
         "status": 1,
         "language": "hi",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "TvSeries",
@@ -939,18 +938,18 @@
         ],
         "version": 13,
         "internalName": "YomoviesProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yugen.to&sz=%size%",
+        "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
         "fileSize": 19681,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated"
+            "hifi2007"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -959,7 +958,207 @@
         ],
         "version": 5,
         "internalName": "YugenAnime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
+        "url": "https://github.com/hifi2016/boo2/blob/main/YugenAnime.cs3",
         "name": "YugenAnime"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Moviehab",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Moviehab.cs3",
+        "name": "Moviehab"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Movierulzhd",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "MultiplexProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/MultiplexProvider.cs3",
+        "name": "MultiplexProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "NeonimeProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/NeonimeProvider.cs3",
+        "name": "NeonimeProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "OnetwothreeTv",
+        "url": "https://github.com/hifi2016/boo2/blob/main/OnetwothreeTv.cs3",
+        "name": "OnetwothreeTv"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DramaSerial",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DramaSerial.cs3",
+        "name": "DramaSerial"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DramaidProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DubokuProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DubokuProvider.cs3",
+        "name": "DubokuProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "GomunimeProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/GomunimeProvider.cs3",
+        "name": "GomunimeProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "IMoviehd",
+        "url": "https://github.com/hifi2016/boo2/blob/main/IMoviehd.cs3",
+        "name": "IMoviehd"
     }
 ]
