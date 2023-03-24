@@ -1,0 +1,1163 @@
+ {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 14395,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AllAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/raw/main/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19453,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AllMoviesForYou",
+        "url": "https://github.com/hifi2016/boo/raw/main/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYou"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 25827,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "AniflixProvider",
+        "url": "https://github.com/hifi2016/boo/raw/main/AniflixProvider.cs3",
+        "name": "AniflixProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 18835,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "AnimeFlickProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 16567,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimePaheProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 18232,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "AnimekisaProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 17242,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "AsiaFlixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 12974,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "Ask4Movie",
+        "url": "https://github.com/hifi2016/boo/blob/main/Ask4Movie.cs3",
+        "name": "Ask4Movie"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 12801,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "BflixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/BflixProvider.cs3",
+        "name": "BflixProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19298,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "Crunchyroll",
+        "url": "https://github.com/hifi2016/boo/blob/main/Crunchyroll.cs3",
+        "name": "Crunchyroll"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 17970,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 10948,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "EjaTv"
+        ],
+        "version": 7,
+        "internalName": "EjaTv",        
+        "url": "https://github.com/hifi2016/boo/blob/main/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 20449,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "GogoanimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 24226,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "HDMProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 14499,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "IHaveNoTvProvider"
+        ],
+        "version": 3,
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 16559,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "KawaiifuProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 13086,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "KimCartoonProvider"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 51610,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "MeloMovieProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 13078,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "NginxProvider"
+        ],
+        "version": 1,
+        "internalName": "NginxProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 18807,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "NineAnimeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 21607,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "OlgplyProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19771,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "SflixProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 16394,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 33273,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 23,
+        "internalName": "StremioProvider",
+        "description": "StremioProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/StremioProvider.cs3",
+        "name": "StremioProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 18086,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SuperStream",
+        "url": "https://github.com/hifi2016/boo/blob/main/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 24828,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 32,
+        "internalName": "SuperembedProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/SuperembedProvider.cs3",
+        "name": "SuperembedProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15903,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TenshiProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 20379,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "TheFlixToProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 22701,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 16252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "movies"
+        ],
+        "version": 3,
+        "internalName": "VMoveeProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 22909,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "VidSrcProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 21749,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "VidstreamBundle",
+        "url": "https://github.com/hifi2016/boo/blob/main/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 11252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "cartoons"
+        ],
+        "version": 4,
+        "internalName": "WatchCartoonOnlineProvider",
+        "description": "WatchCartoonOnlineProvider",
+        "url": "https://github.com/hifi2016/boo/blob/main/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15402,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Anifreakz",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Anifreakz.cs3",
+        "name": "Anifreakz"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 26296,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Anilibria",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Anilibria.cs3",
+        "name": "Anilibria"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 20285,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "GoodPorn",
+            "Adult",
+            "xxx"
+        ],
+        "version": 7,
+        "internalName": "GoodPorn",
+        "url": "https://github.com/hifi2016/boo2/blob/main/GoodPorn.cs3",
+        "name": "GoodPorn"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 242694,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007",
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 106,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://github.com/hifi2016/boo2/blob/main/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 14,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream",
+        "url": "https://github.com/hifi2016/boo2/blob/main/TimefourTv.cs3",
+        "name": "TimefourTv"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 14159,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TocanimeProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/TocanimeProvider.cs3",
+        "name": "TocanimeProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 10193,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "Topdocumentaryfilms",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Topdocumentaryfilms.cs3",
+        "name": "Topdocumentaryfilms"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 13202,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Turkish",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Turkish.cs3",
+        "name": "Turkish"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 9546,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "Tvtwofourseven",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Tvtwofourseven.cs3",
+        "name": "Tvtwofourseven"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 16033,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "UakinoProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/UakinoProvider.cs3",
+        "name": "UakinoProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 9523,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "UseeTv",
+        "url": "https://github.com/hifi2016/boo2/blob/main/UseeTv.cs3",
+        "name": "UseeTv"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "WcofunProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/WcofunProvider.cs3",
+        "name": "WcofunProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 23428,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xcineio",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Xcineio.cs3",
+        "name": "Xcineio"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 17551,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xcinetop",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Xcinetop.cs3",
+        "name": "Xcinetop"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 14105,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "YomoviesProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "YugenAnime",
+        "url": "https://github.com/hifi2016/boo2/blob/main/YugenAnime.cs3",
+        "name": "YugenAnime"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Moviehab",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Moviehab.cs3",
+        "name": "Moviehab"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Movierulzhd",
+        "url": "https://github.com/hifi2016/boo2/blob/main/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "MultiplexProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/MultiplexProvider.cs3",
+        "name": "MultiplexProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "NeonimeProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/NeonimeProvider.cs3",
+        "name": "NeonimeProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "OnetwothreeTv",
+        "url": "https://github.com/hifi2016/boo2/blob/main/OnetwothreeTv.cs3",
+        "name": "OnetwothreeTv"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DramaSerial",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DramaSerial.cs3",
+        "name": "DramaSerial"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DramaidProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "DubokuProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/DubokuProvider.cs3",
+        "name": "DubokuProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "GomunimeProvider",
+        "url": "https://github.com/hifi2016/boo2/blob/main/GomunimeProvider.cs3",
+        "name": "GomunimeProvider"
+ },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "hifi2007"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "IMoviehd",
+        "url": "https://github.com/hifi2016/boo2/blob/main/IMoviehd.cs3",
+        "name": "IMoviehd"
+    }
+]
