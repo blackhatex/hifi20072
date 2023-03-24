@@ -645,7 +645,7 @@
         "version": 4,
         "internalName": "Paradisehill",
         "description": "Series porn (use VPN if links not working)",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Paradisehill.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Paradisehill.cs3",
         "name": "Paradisehill"
     },
     {
@@ -666,7 +666,7 @@
         ],
         "version": 4,
         "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/PhimmoichillProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/PhimmoichillProvider.cs3",
         "name": "PhimmoichillProvider"
     },
     {
@@ -687,7 +687,7 @@
         ],
         "version": 5,
         "internalName": "RebahinProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/RebahinProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/RebahinProvider.cs3",
         "name": "RebahinProvider"
     },
     {
@@ -707,7 +707,7 @@
         ],
         "version": 7,
         "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Samehadaku.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Samehadaku.cs3",
         "name": "Samehadaku"
     },
     {
@@ -729,7 +729,7 @@
         "version": 106,
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/SoraStream.cs3",
         "name": "SoraStream"
     },
     {
@@ -748,7 +748,7 @@
         "version": 14,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TimefourTv.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/TimefourTv.cs3",
         "name": "TimefourTv"
     },
     {
@@ -768,7 +768,7 @@
         ],
         "version": 1,
         "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TocanimeProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/TocanimeProvider.cs3",
         "name": "TocanimeProvider"
     },
     {
@@ -786,7 +786,7 @@
         ],
         "version": 1,
         "internalName": "Topdocumentaryfilms",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Topdocumentaryfilms.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Topdocumentaryfilms.cs3",
         "name": "Topdocumentaryfilms"
     },
     {
@@ -805,7 +805,7 @@
         ],
         "version": 1,
         "internalName": "Turkish",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Turkish.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Turkish.cs3",
         "name": "Turkish"
     },
     {
@@ -823,7 +823,7 @@
         ],
         "version": 2,
         "internalName": "Tvtwofourseven",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Tvtwofourseven.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Tvtwofourseven.cs3",
         "name": "Tvtwofourseven"
     },
     {
@@ -843,7 +843,7 @@
         ],
         "version": 1,
         "internalName": "UakinoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UakinoProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/UakinoProvider.cs3",
         "name": "UakinoProvider"
     },
     {
@@ -861,7 +861,7 @@
         ],
         "version": 2,
         "internalName": "UseeTv",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UseeTv.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/UseeTv.cs3",
         "name": "UseeTv"
     },
     {
@@ -881,7 +881,7 @@
         ],
         "version": 2,
         "internalName": "WcofunProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/WcofunProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/WcofunProvider.cs3",
         "name": "WcofunProvider"
     },
     {
@@ -900,7 +900,7 @@
         ],
         "version": 3,
         "internalName": "Xcineio",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcineio.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Xcineio.cs3",
         "name": "Xcineio"
     },
     {
@@ -919,7 +919,7 @@
         ],
         "version": 3,
         "internalName": "Xcinetop",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcinetop.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Xcinetop.cs3",
         "name": "Xcinetop"
     },
     {
@@ -938,7 +938,7 @@
         ],
         "version": 13,
         "internalName": "YomoviesProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
     },
     {
@@ -958,7 +958,7 @@
         ],
         "version": 5,
         "internalName": "YugenAnime",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/YugenAnime.cs3",
         "name": "YugenAnime"
     }
 ]
