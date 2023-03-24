@@ -1320,6 +1320,306 @@
         "internalName": "MeloMovieProvider",
         "url": "https://github.com/hifi2016/extensions2-/raw/main/MeloMovieProvider.cs3",
         "name": "MeloMovieProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "NginxProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "NginxProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "NineAnimeProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "NineAnimeProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "OlgplyProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "OlgplyProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "SflixProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "SflixProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "SoaptwoDayProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "StremioProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "StremioProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/StremioProvider.cs3",
+        "name": "StremioProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "SuperStream",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "SuperStream",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "SuperembedProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "SuperembedProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/SuperembedProvider.cs3",
+        "name": "SuperembedProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "TenshiProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TenshiProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "TheFlixToProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TheFlixToProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "TrailersTwoProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "VMoveeProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "VMoveeProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "VidSrcProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "VidSrcProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "VidstreamBundle",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "VidstreamBundle",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "WatchCartoonOnlineProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
 
     }
 ]
