@@ -980,6 +980,26 @@
         "internalName": "AllAnimeProvider",
         "url": "https://github.com/hifi2016/extensions2-/raw/main/AllAnimeProvider.cs3",
         "name": "AllAnimeProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hifi2016/stream3",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hifi2007"
+        ],
+        "tvTypes": [
+            "AllMoviesForYouProvider",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AllMoviesForYouProvider",
+        "url": "https://github.com/hifi2016/extensions2-/raw/main/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYouProvider"
 
     }
 ]
