@@ -96,7 +96,7 @@
         ],
         "version": 1,
         "internalName": "Anizm",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anizm.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Anizm.cs3",
         "name": "Anizm"
     },
     {
@@ -114,7 +114,7 @@
         ],
         "version": 1,
         "internalName": "Dizikorea",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dizikorea.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/Dizikorea.cs3",
         "name": "Dizikorea"
     },
     {
@@ -133,7 +133,7 @@
         ],
         "version": 6,
         "internalName": "DramaidProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/DramaidProvider.cs3",
         "name": "DramaidProvider"
     },
     {
@@ -151,7 +151,7 @@
         ],
         "version": 2,
         "internalName": "DramaSerial",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaSerial.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/DramaSerial.cs3",
         "name": "DramaSerial"
     },
     {
@@ -171,7 +171,7 @@
         ],
         "version": 1,
         "internalName": "DubokuProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DubokuProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/DubokuProvider.cs3",
         "name": "DubokuProvider"
     },
     {
