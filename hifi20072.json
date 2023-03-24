@@ -56,7 +56,7 @@
         ],
         "version": 9,
         "internalName": "AnimeIndoProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeIndoProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/AnimeIndoProvider.cs3",
         "name": "AnimeIndoProvider"
     },
     {
@@ -76,7 +76,7 @@
         ],
         "version": 6,
         "internalName": "AnimeSailProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/AnimeSailProvider.cs3",
+        "url": "https://github.com/hifi2016/extensions-/raw/main/AnimeSailProvider.cs3",
         "name": "AnimeSailProvider"
     },
     {
